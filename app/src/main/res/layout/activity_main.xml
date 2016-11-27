@@ -12,16 +12,24 @@
     tools:context="com.example.andrew.medalert.MainActivity"
     android:background="@drawable/page">
 
-
-    <Button
-        android:text="Messages"
+    <RelativeLayout
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/messages"
-        android:layout_marginTop="29dp"
-        android:layout_below="@+id/symptoms"
-        android:layout_alignRight="@+id/symptoms"
-        android:layout_alignEnd="@+id/symptoms" />
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/alert"
+            android:src="@drawable/alerts-01"/>
+
+        <Button
+            android:text="Alert"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/alert" />
+
+    </RelativeLayout>
+
 
     <Button
         android:text="Symptoms"
