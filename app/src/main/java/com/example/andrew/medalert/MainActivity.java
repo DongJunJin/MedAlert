@@ -18,11 +18,13 @@ public class MainActivity extends AppCompatActivity {
         Button stages = (Button) findViewById(R.id.stages);
         Button pReg = (Button) findViewById(R.id.pReg);
         Button symptoms = (Button) findViewById(R.id.symptoms);
-        Button messages = (Button) findViewById(R.id.alert);
+        Button alert = (Button) findViewById(R.id.alert);
 
         stages.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
+                Intent intent = new Intent(v.getContext(), Stages.class);
+                startActivity(intent);
 
             }
         });
@@ -38,11 +40,12 @@ public class MainActivity extends AppCompatActivity {
         symptoms.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
-
+                Intent intent = new Intent(v.getContext(), Stages.class);
+                startActivity(intent);
             }
         });
 
-        messages.setOnClickListener(new View.OnClickListener(){
+        alert.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
 
