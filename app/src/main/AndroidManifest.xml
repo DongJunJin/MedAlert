@@ -17,9 +17,14 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".Stages"></activity>
+        <activity android:name=".Stages"
+            android:theme="@style/Theme.AppCompat.NoActionBar"></activity>
 
-        <activity android:name=".PatientRegistration"></activity>
+        <activity android:name=".PatientRegistration"
+            android:theme="@style/Theme.AppCompat.NoActionBar"></activity>
+
+        <activity android:name=".Alerts"
+            android:theme="@style/Theme.AppCompat.NoActionBar"></activity>
 
     </application>
 
