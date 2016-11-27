@@ -1,3 +1,164 @@
 <resources>
     <string name="app_name">Medalert</string>
+    <string name="symptoms">Anemia
+        - Low healthy red blood cell count
+-Tiredness
+-Weakness
+-Pale
+-Feel faint
+-Shortness of breath
+Take iron or folic acid supplements.
+
+
+Depression - Extreme sadness during pregnancy or after birth
+-Intense sadness
+-Irritability
+-Appetite changes
+Therapy, support groups, medicines
+
+
+Ectopic pregnancy - A fertilized egg implants outside of the uterus, usually in the fallopian tube.
+-Abdominal pain
+-Shoulder pain
+-Vaginal bleeding
+-Dizziness
+Drugs or surgery used to remove the ectopic tissue
+
+
+Gestational diabetes - Blood sugar levels too high during pregnancy
+-Extreme thirst
+-Extreme hunger
+-Fatigue
+Follow healthy meal plan from health care professional
+
+
+Hyperemesis gravidarum- Extreme sickness during pregnancy
+-Nausea
+-Vomiting
+-Weight loss
+-Appetite loss
+-Dehydration
+-Fainting
+Dry bland foods and fluids or prescribed medicines
+
+
+Miscarriage - Pregnancy loss from natural causes before 20 weeks
+-Vaginal spotting
+-Vaginal bleeding
+-Cramps
+-Abdominal pain
+-Vaginal fluid
+
+
+Placenta previa - Placenta covers part or entire opening of cervix inside of the uterus
+-Vaginal bleeding
+Cut back on activity level and increase bedrest. May require hospitalization.
+
+
+Placental abruption - Placenta separates from uterine wall, fetus cannot get enough oxygen
+-Vaginal bleeding
+-Cramping
+-Abdominal pain
+-Uterine tenderness
+In minor separation, bed rest may stop the bleeding. Severe cases can require immediate medical attention.
+
+
+Preeclampsia - High blood pressure and problems with kidneys and other organs starting after 20 weeks of pregnancy
+-High blood pressure
+-Swelling
+-Too much protein in urine
+-Stomach pain
+-Blurred vision
+-Dizziness
+-Headaches
+May need medicines and bed rest at home or in hospital
+
+
+Preterm labor - Going into labor 37 weeks of pregnancy
+-Increased vaginal discharge
+-Pelvic pressure
+-Cramping
+-Back pain
+-Contractions
+
+
+Bacterial vaginosis - Vaginal infection caused by an overgrowth of bacteria normally found in the vagina
+-Grey or white discharge
+-Burning when urinating
+-Itching
+Antibiotics treat BV
+
+
+Cytomegalovirus - Common virus that can cause disease in infants whose mothers are infected with CMV
+-Mild illness
+-Fever
+-Sore throat
+-Fatigue
+-Swollen glads
+Good hygiene. Antiviral drugs for infants.
+
+
+Hepatitis B Virus (HBV) - Viral infection that can be passed to baby during birth.
+-Nausea
+-Vomiting
+-Diarrhea
+-Dark urine
+-Pale bowel movements
+-White eyes
+-Yellowing skin
+Lab tests and vaccination.
+Influenza - Common viral infection which pregnant women are susceptible to
+-Fever
+-Cough
+-Sore throat
+-Runny nose
+-Muscle pain
+-Aches
+-Tiredness
+-Vomiting
+-Diarrhea
+Vaccinations and antiviral medicine
+
+
+Listeriosis - Infection with the harmful bacteria listeria, can cause early delivery or miscarriage.
+-Fever
+-Muscle aches
+-Chills
+-Diarrhea
+-Nausea
+-Severe headache
+-Stiff neck
+Avoid foods harbouring listeria, antibiotics.
+
+
+Parvovirus B19 - Virus can infect the fetus, raises risk of miscarriage and can cause severe anemia
+-Fever
+-Tiredness
+-Rash
+-Painful joints
+-Swollen joints
+Blood transfusions mightt be needed for people with immune system issues or red blood cell disorders
+
+
+Urinary tract infection (UTI) - Bacterial infection in urinary tract, can cause preterm labor
+-Burning when urinating
+-Frequent urination
+-Pelvis pain
+-Back pain
+-Stomach pain
+-Side pain
+-Shaking
+-Chills
+-Fever
+-Sweats
+
+
+Yeast infection - Infection caused by an overgrowth of bacteria normally found in the vagina
+-Vaginal itch
+-Vaginal swelling
+-Vaginal redness
+-Vaginal burning
+-Painful urination
+-White vaginal discharge
+Vaginal creams and suppositories are used to treat yeast infection when pregnant.</string>
 </resources>

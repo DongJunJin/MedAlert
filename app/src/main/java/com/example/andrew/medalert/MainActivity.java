@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
         symptoms.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
-                Intent intent = new Intent(v.getContext(), Stages.class);
+                Intent intent = new Intent(v.getContext(), Symptoms.class);
                 startActivity(intent);
             }
         });
@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
         alert.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
-                Intent intent = new Intent(v.getContext(), Stages.class);
+                Intent intent = new Intent(v.getContext(), Alerts.class);
                 startActivity(intent);
             }
         });
