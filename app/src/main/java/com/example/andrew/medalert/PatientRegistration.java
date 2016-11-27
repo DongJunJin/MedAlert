@@ -67,9 +67,9 @@ public class PatientRegistration extends AppCompatActivity {
                 }
                 else{
 
-                    String finale = name + ", +1" + poNum;
+                    String finale = name + "," + poNum;
                     SmsManager smsManager = SmsManager.getDefault();
-                    smsManager.sendTextMessage("+16472819071", null, finale, null, null);
+                    smsManager.sendTextMessage("+16139001742", null, finale, null, null);
                     Toast.makeText(PatientRegistration.this, "Message Sent!", Toast.LENGTH_LONG).show();
                     finish();
                 }
