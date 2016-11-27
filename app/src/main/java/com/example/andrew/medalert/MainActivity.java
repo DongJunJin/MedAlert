@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         Button stages = (Button) findViewById(R.id.stages);
         Button pReg = (Button) findViewById(R.id.pReg);
         Button symptoms = (Button) findViewById(R.id.symptoms);
-        Button messages = (Button) findViewById(R.id.messages);
+        Button messages = (Button) findViewById(R.id.alert);
 
         stages.setOnClickListener(new View.OnClickListener(){
             @Override
