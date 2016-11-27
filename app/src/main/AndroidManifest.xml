@@ -23,8 +23,12 @@
         <activity android:name=".PatientRegistration"
             android:theme="@style/Theme.AppCompat.NoActionBar"></activity>
 
+        <activity android:name=".Symptoms"
+            android:theme="@style/Theme.AppCompat.NoActionBar"></activity>
+
         <activity android:name=".Alerts"
             android:theme="@style/Theme.AppCompat.NoActionBar"></activity>
+
 
     </application>
 
