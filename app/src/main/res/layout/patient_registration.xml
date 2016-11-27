@@ -19,6 +19,7 @@
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:id="@+id/date_box"
         android:layout_below="@+id/namefield"
         android:layout_marginTop="26dp"
         android:layout_alignRight="@+id/namefield"
@@ -54,30 +55,26 @@
 
     </LinearLayout>
 
-
-
     <EditText
-        android:layout_width="wrap_content"
+        android:layout_width="130dp"
         android:layout_height="30dp"
         android:inputType="number"
         android:ems="10"
-        android:layout_above="@+id/submit"
-        android:layout_alignLeft="@+id/dates"
-        android:layout_alignStart="@+id/dates"
+        android:layout_below="@+id/date_box"
+        android:layout_alignLeft="@+id/date_box"
+        android:layout_alignStart="@+id/date_box"
         android:textColor="@android:color/black"
-        android:layout_marginBottom="37dp"
-        android:id="@+id/poNum"
-        android:background="@drawable/border"/>
+        android:layout_marginTop="40dp"
+        android:id="@+id/poNum"/>
 
     <Button
-        android:text="Send Alert"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+
+        android:layout_width="140dp"
+        android:layout_height="70dp"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="110dp"
-        android:textSize="25sp"
-        android:id="@+id/submit"
+        android:layout_marginBottom="170dp"
+        android:id="@+id/send_alert"
         android:background="@android:color/transparent"/>
 
 </RelativeLayout>
