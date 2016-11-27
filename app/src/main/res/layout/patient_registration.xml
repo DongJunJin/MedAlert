@@ -6,11 +6,11 @@
 
     <EditText
          android:layout_width="wrap_content"
-         android:layout_height="35dp"
+         android:layout_height="45dp"
          android:inputType="textPersonName"
          android:ems="10"
          android:layout_alignParentTop="true"
-         android:layout_marginTop="150dp"
+         android:layout_marginTop="145dp"
          android:layout_marginStart="105dp"
          android:layout_marginLeft="105dp"
          android:id="@+id/namefield"
@@ -20,13 +20,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/namefield"
-        android:layout_marginTop="53dp"
+        android:layout_marginTop="26dp"
         android:layout_alignRight="@+id/namefield"
         android:layout_alignEnd="@+id/namefield">
 
         <EditText
             android:layout_width="33dp"
-            android:layout_height="30dp"
+            android:layout_height="45dp"
             android:inputType="date"
             android:ems="10"
             android:textColor="@android:color/black"
@@ -35,15 +35,17 @@
 
         <EditText
             android:layout_width="33dp"
-            android:layout_height="30dp"
+            android:layout_height="45dp"
             android:inputType="date"
             android:ems="10"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
             android:textColor="@android:color/black"
             android:id="@+id/month"/>
 
         <EditText
-            android:layout_width="33dp"
-            android:layout_height="30dp"
+            android:layout_width="50dp"
+            android:layout_height="45dp"
             android:inputType="date"
             android:ems="10"
             android:textColor="@android:color/black"
