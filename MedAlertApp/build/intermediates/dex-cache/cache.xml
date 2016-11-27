@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2d93b58a4901646ee6c5aa3556133d73fff5323b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_3bec9e458bf7d84b806817605e5fdfc0405d9cd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_4fc1d78ddf465a5816775cd11c9940c69238ae87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_0191a626f70e21b6b0c8c9cdaa472a355255ceb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_23043c5f7196dec9ae9c8b440af0948cb81f7731/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f27fb939bc295f45c650772eaae6c3a5a0efe73c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_b5b90d7db24719cec3f09c0fdc4c459b62bacea4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_82110f0a67f7ad639ec04fb302bb93e70df63916/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_d451e7badc0265dd55438ee7c0a2d27ef93810a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_3cb6cc2b1e383c36c4232a0c78f797585be9805d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3eeb1072558663a48691d824378358a9c548fba5">
+        <dex dex="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_be7e92da3efdb2b0f34f09247446cf1e116bef89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1ab71684cb3cf7d205571e4c782163183e0fa5a">
+        <dex dex="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1381132de352428254f178efc139ff97f7918a2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_44715a75756efcc8bc05ec9f80a94061c428f550/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ea1100091656e947a368db4748fbfe9669270059/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_691d5022423e92cdbabb01104ed87b9b02331a31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6f05f89caa095e1871c085cb79dff8716866bd6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tarunkhanna/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/tarunkhanna/BreakInequality/MedAlert/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_b11fefcc5f47a54f5f777dd1ef8081c2395d9bd3/classes.dex" />
+    </item>
+
+</items>
